@@ -191,7 +191,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="mt-8 pt-6 border-t border-border-subtle text-center text-text-muted text-sm">
-        &copy; {new Date().getFullYear()} Ganga Club. All Rights Reserved. Build by Soyo
+        &copy; {new Date().getFullYear()} Ganga Club. All Rights Reserved. Build by Ganga Club
       </div>
     </footer>
   )
