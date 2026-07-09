@@ -31,12 +31,12 @@ export default function Header() {
               variant="outline"
               className="text-accent-cyan border-accent-cyan hover:bg-accent-cyan hover:text-primary-dark bg-transparent"
             >
-              <Link href="https://gangaclub-app.pages.dev" rel="nofollow noreferrer noopener">
+              <Link href="https://gangaclub.pages.dev" rel="nofollow noreferrer noopener">
                 Login
               </Link>
             </Button>
             <Button asChild variant="default" className="bg-accent-cyan hover:bg-accent-cyan/90 text-primary-dark">
-              <Link href="https://gangaclub-app.pages.dev" rel="nofollow noreferrer noopener">
+              <Link href="https://gangaclub.pages.dev" rel="nofollow noreferrer noopener">
                 Sign Up
               </Link>
             </Button>
